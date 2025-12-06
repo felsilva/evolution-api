@@ -1,7 +1,7 @@
 version: "3.8"
 
 services:
-  api:
+  evolution-api:
     container_name: evolution_api
     build:
       context: .
